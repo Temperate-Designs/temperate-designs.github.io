@@ -1,2 +1,9 @@
 remote_theme: jekyll/minima
 google_analytics: G-K69Z84DP1Y
+title: Temperate Designs
+tagline: Simple yet useful apps.
+author:
+  name: Temperate Designs
+minima:
+  social_links:
+    github: 'Temperate-Designs'
