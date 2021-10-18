@@ -4,6 +4,8 @@ title: Temperate Designs
 tagline: Simple yet useful apps.
 author:
   name: Temperate Designs
+  email: temperatedesigns2@gmail.com
 minima:
   social_links:
-    github: 'Temperate-Designs'
+    github: Temperate-Designs
+show_excerpts: true
