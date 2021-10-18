@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: Welcome to our new webpage!
 date: 2021-10-18T09:48:13-06:00
 tags: [announcement]
 ---
