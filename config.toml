@@ -9,5 +9,6 @@ enableRobotsTXT = true
   site_logo = 'geometric.png'
   author = 'Temperate Designs'
   description = 'Simple yet useful apps.'
-  github = 'https://github.com/Temperate-Designs/temperate-designs.github.io'
+  github = 'https://github.com/Temperate-Designs'
   featured_image = 'red-and-blue-ink-explosion-picjumbo-com-logo.jpg'
+  recent_posts_number = 2
