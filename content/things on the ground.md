@@ -1,6 +1,5 @@
 ---
-title: Sunflower Dash
-description: Simply Useful Apps
+title: Sunflower Dash - Things on the ground
 menu: [main]
 featured_image: /black-oil-sunflower.jpg
 ---

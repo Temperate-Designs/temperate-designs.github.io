@@ -1,6 +1,6 @@
 ---
 title: Sunflower Dash - Game Design
-menu: [main, footer]
+menu: [main]
 featured_image: /black-oil-sunflower.jpg
 ---
 

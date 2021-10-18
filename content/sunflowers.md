@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Sunflowers
+menu: [main]
+featured_image: /black-oil-sunflower.jpg
 ---
 
 - Not all Sunflowers behave the same way.
@@ -8,5 +9,3 @@ title: Sunflowers
 - Sunflowers go up and down and side to side.
 - The flower petals are floating in the air and you need to jump to
   get them.
-
-Back to [Game Design]({{ site.baseurl }}{% link game-design.md %}).
