@@ -1,6 +1,6 @@
 ---
 title: Temperate Designs
-description: Simply Useful Apps
+description: Simply Designed Apps
 menu: [main, footer]
 ---
 
