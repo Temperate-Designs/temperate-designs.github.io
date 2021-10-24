@@ -4,8 +4,11 @@ set -e -u -x
 
 basedir=$(readlink --canonicalize $(dirname $0))
 
+docker build --tag temperate-designs/gh-pages .
 docker run \
-  --volume ${basedir}:/srv/jekyll \
-  --publish [::1]:4000:4000 \
-  jekyll/jekyll \
-  jekyll serve
+  --interactive --tty --rm \
+  --volume "${basedir}":/src \
+  --env HUGO_ENV=production \
+  --publish 0.0.0.0:1313:1313 \
+  temperate-designs/gh-pages \
+  server --disableFastRender
