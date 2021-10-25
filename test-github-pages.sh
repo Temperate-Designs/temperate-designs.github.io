@@ -10,5 +10,6 @@ docker run \
   --volume "${basedir}":/src \
   --env HUGO_ENV=production \
   --publish 0.0.0.0:1313:1313 \
+  --entrypoint /bin/bash \
   temperate-designs/gh-pages \
-  server --disableFastRender
+  -c "pushd themes/tella; npm install; popd; hugo server --disableFastRender"
