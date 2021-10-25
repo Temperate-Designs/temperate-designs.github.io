@@ -39,12 +39,14 @@ jobs:
       - name: Install npm packages
         run: |
           set -x
-          cd docs
           npm install --global npm@latest
           npm install --global postcss-cli
           # Note that autoprefixer needs to be install locally in the `/docs` directory
           # See: https://discourse.gohugo.io/t/getting-error-loading-postcss-plugin-when-running-hugo-with-source/34213
           npm install autoprefixer
+          pushd themes/tella
+          npm install
+          popd
           npm list --global
           npm list
 
