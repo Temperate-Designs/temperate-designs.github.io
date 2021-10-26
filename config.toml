@@ -12,6 +12,7 @@ enableRobotsTXT = true
 
 # If you're using Google Analytics, you can enable this feature.
 googleAnalytics = "G-K69Z84DP1Y"
+googlePublisherID = "pub-4328959315579213"
 
 # Disqus Comment System
 #disqusShortname = ""
