@@ -55,8 +55,7 @@ jobs:
           HUGO_ENV: production
         run: hugo --minify
 
-      - run: pwd
-      - run: tree ./public
+      - run: tree ${GITHUB_WORKSPACE}/public
       - run: echo ${GITHUB_WORKSPACE}
 
       - name: Deploy
