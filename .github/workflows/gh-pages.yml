@@ -55,6 +55,7 @@ jobs:
           HUGO_ENV: production
         run: hugo --minify
 
+      - run: touch public/.keep
       - run: tree ${GITHUB_WORKSPACE}/public
       - run: echo ${GITHUB_WORKSPACE}
 
