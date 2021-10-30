@@ -10,7 +10,7 @@
   gtag('config', '{{ . }}');
 </script>
 {{ end }}
-{{ with .Site.GooglePublisherID }}
+{{ with .Site.Params.googlePublisherID }}
 <!-- Add AdSense tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
 <!-- End AdSense tag -->
