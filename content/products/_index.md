@@ -22,6 +22,6 @@ width="200"
 
 ## Sunflower Dash
 
-Sunflower Dash is a fun game (still under active development)
-
-(not yet available)
+Sunflower Dash is a fun game with lots of sunflowers. The game is not yet
+available but you are welcome to join the
+[development](https://github.com/Temperate-Designs/sunflower-dash).
