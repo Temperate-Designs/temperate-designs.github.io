@@ -49,28 +49,39 @@ googleAnalytics = "G-K69Z84DP1Y"
     url = "/products/"
     weight = 1
 
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about/"
-  #   weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
 
-  # [[menu.main]]
-  #   identifier = "contact"
-  #   name = "Contact"
-  #   url = "/contact/"
-  #   weight = 4
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
 
   # Footer Menu
-  # [[menu.footer]]
-  #   name = "Home"
-  #   url = "/"
-  #     weight = 1
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
 
-  # [[menu.footer]]
-  #   name = "Github"
-  #   url = "https://github.com/opera7133/tella"
-  #     weight = 2
+  [[menu.footer]]
+    name = "Github"
+    url = "https://github.com/Temperate-Designs"
+      weight = 2
+
+  [[menu.footer]]
+    name = "Sunflower Dash"
+    url = "https://temperate-designs.github.io/sunflower-dash/"
+      weight = 2
 
 [build]
   writeStats = true
