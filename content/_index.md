@@ -1,7 +1,6 @@
 ---
 title: Temperate Designs
 description: Simply Designed Apps
-menu: [main, footer]
 ---
 
 Our apps are published in the [Google Play
