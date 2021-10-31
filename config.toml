@@ -53,13 +53,13 @@ googleAnalytics = "G-K69Z84DP1Y"
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     identifier = "blog"
@@ -67,21 +67,32 @@ googleAnalytics = "G-K69Z84DP1Y"
     url = "/blog/"
     weight = 4
 
+  [[menu.main]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 5
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
     url = "/"
-      weight = 1
+    weight = 1
+
+  [[menu.footer]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 2
 
   [[menu.footer]]
     name = "Github"
     url = "https://github.com/Temperate-Designs"
-      weight = 2
+    weight = 3
 
   [[menu.footer]]
     name = "Sunflower Dash"
     url = "https://temperate-designs.github.io/sunflower-dash/"
-      weight = 2
+    weight = 4
 
 [build]
   writeStats = true
