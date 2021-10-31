@@ -9,11 +9,16 @@ Go check them out!
 ## SWN Race Timer
 
 A simple race timer with
+
 * Single, group, and mass starts
 
-[![SWN Race Timer](/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.temperatedesigns.swn_race_timer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
-<a href='https://play.google.com/store/apps/details?id=com.temperatedesigns.swn_race_timer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+{{< figure
+src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+link="https://play.google.com/store/apps/details?id=com.temperatedesigns.swn_race_timer&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+target="_blank"
+alt="Get it on Google Play"
+width="200"
+ >}}
 
 ## Sunflower Dash
 
