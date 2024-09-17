@@ -1,5 +1,5 @@
 +++
-title = 'Privacy'
+title = 'SWN Race Timer Privacy Policy'
 date = 2024-09-17T10:17:42-06:00
 draft = false
 +++
