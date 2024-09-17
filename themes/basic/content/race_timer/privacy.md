@@ -7,17 +7,18 @@ draft = false
 Introduction
 ------------
 
-SWN Race Timer is a simple timer app for timing sports races. This Privacy
+**SWN Race Timer** is a simple timer app for timing sports races. This Privacy
 Policy outlines our practices regarding the collection, use, and disclosure of
 information when you use our app.
 
 No Data Collection
 ------------------
 
-SWN Race Timer does not collect any personal information from you while you are
-using the app. This includes but is not limited to your name, email address,
-phone number, location data, or any other personally identifiable information.
-  
+**SWN Race Timer** does not collect any personal information from you while you
+are using the app. This includes but is not limited to your name, email
+address, phone number, location data, or any other personally identifiable
+information.
+
 Analytics Usage
 ---------------
 
