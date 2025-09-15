@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Temperate Designs
 
 # import hextra as module
 module:
@@ -18,14 +18,14 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Privacy
+      pageRef: /privacy
+      weight: 2
+    - name: Contact
+      url: "https://github.com/TemperateDesigns"
       weight: 3
     - name: Search
       weight: 4
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/Temperate-Designs"
       params:
         icon: github
     - name: Twitter
@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/Temperate-Designs/temperate-designs.github.io/edit/main/content"

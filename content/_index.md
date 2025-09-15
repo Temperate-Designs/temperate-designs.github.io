@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Temperate Designs
 toc: false
 ---
 
@@ -8,10 +8,10 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="privacy" title="Privacy" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [Temperate Designs](https://github.com/Temperate-Designs).
